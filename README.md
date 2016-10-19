@@ -4,7 +4,7 @@ Uma coleção de incríveis recursos para as provas da [POSCOMP](http://www.sbc.
 <p align="center">
   <img src="http://opentapajos.org/wp-content/uploads/2013/04/2011-POSCOMP-p1.jpg"/>
   <br/>
-  <b>As <a href="http://publicacoes.fundatec.com.br/portal/concursos/394/0394.001.pdf?idpub=472644" target="_blank">provas</a> e os <a href="http://publicacoes.fundatec.com.br/portal/concursos/394/Gabaritos_Preliminares_394.pdf?idpub=472643" target="_blank">gabaritos preliminares</a> já foram divulgados!</b>
+  <b>As <a href="http://publicacoes.fundatec.com.br/portal/concursos/394/0394.001.pdf?idpub=472644" target="_blank">provas</a> e os <a href="http://publicacoes.fundatec.com.br/portal/concursos/v6.0_index_gabaritos.php?concurso=394&tipo=D&idpub=472739" target="_blank">gabaritos definitivos</a> já foram divulgados!</b>
 </p>
 
 A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do Brasil, é muito importante fazer a prova. Mais informações sobre a POSCOMP podem ser obtidas [no site oficial da Sociedade Brasileira de Computação](http://www.sbc.org.br/educacao/poscomp).
@@ -28,6 +28,7 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 | 25/09/2016 | Aplicação da prova |
 | 26/09/2016 | [Gabaritos preliminares](http://publicacoes.fundatec.com.br/portal/concursos/394/Gabaritos_Preliminares_394.pdf?idpub=472643) |
 | 26/09/2016 | [Disponibilização das provas](http://publicacoes.fundatec.com.br/portal/concursos/394/0394.001.pdf?idpub=472644) |
+| 18/10/2016 | [Gabaritos definitivos](http://publicacoes.fundatec.com.br/portal/concursos/v6.0_index_gabaritos.php?concurso=394&tipo=D&idpub=472739) |
 | 21/10/2016 | Divulgação das notas preliminares |
 | 28/10/2016 | Divulgação das notas definitivas |
 | 31/10/2016 | Boletim de desempenho |
