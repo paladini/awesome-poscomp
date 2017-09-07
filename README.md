@@ -1,25 +1,43 @@
 # Awesome POSCOMP
-Uma coleção de incríveis recursos para as provas da [POSCOMP](http://www.sbc.org.br/educacao/poscomp).
+Uma coleção/lista de recursos para as provas da [POSCOMP](http://www.sbc.org.br/educacao/poscomp).
 
 <p align="center">
-  <img src="http://opentapajos.org/wp-content/uploads/2013/04/2011-POSCOMP-p1.jpg"/>
+  <img src="http://www.sbc.org.br/images/Campanhas/poscomp2017.jpg"/>
   <br/>
-  <b>As <a href="http://publicacoes.fundatec.com.br/portal/concursos/394/0394.001.pdf?idpub=472644" target="_blank">provas</a> e o <a href="http://publicacoes.fundatec.com.br/portal/concursos/boletim_desempenho/relatorio_boletim_desempenho_pdf_1.php?concurso=394&idpub=472800" target="_blank">boletim de desempenho</a> já foram divulgados!</b>
+  <b>Os <a href="http://publicacoes.fundatec.com.br/portal/concursos/publicacao/local_prova/local_prova.php?concurso=421&codpub=2691&idpub=473809" target="_blank">locais de prova</a> já foram divulgados!</b>
 </p>
 
 A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do Brasil, é muito importante fazer a prova. Mais informações sobre a POSCOMP podem ser obtidas [no site oficial da Sociedade Brasileira de Computação](http://www.sbc.org.br/educacao/poscomp).
 
 - [Awesome POSCOMP](#awesome-poscomp)
-    - [POSCOMP 2016](#poscomp-2016)
+    - [POSCOMP 2017](#poscomp-2017)
         - [Datas](#datas)
         - [Links](#links)
-        - [Conteúdo da prova](#conteúdo-da-prova)
+    - [POSCOMP 2016](#poscomp-2016)
+        - [Datas](#datas-poscomp-2016)
+        - [Links](#links-poscomp-2016)
+        - [Conteúdo da prova](#conteúdo-da-prova-poscomp-2016)
     - [Provas antigas](#provas-antigas)
     - [Links úteis](#links-úteis)
 
-### POSCOMP 2016
+### POSCOMP 2017
 
 #### Datas
+| Data | Descrição |
+|------|-----------|
+| 13/06/2017 | Início das inscrições |
+| 15/08/2017 | Fim das inscrições |
+
+#### Links
+| Descrição | Link |
+|------------|-------|
+|Página oficial do POSCOMP 2017|[Acessar](https://fundatec.org.br/portal/concursos/index_concursos.php?concurso=421)|
+|Edital de abertura|[Acessar](http://publicacoes.fundatec.com.br/portal/concursos/editais/edital_3772160d4a3.pdf)|
+|Locais de Provas por CPF|[Acessar](http://publicacoes.fundatec.com.br/portal/concursos/publicacao/local_prova/local_prova.php?concurso=421&codpub=2691&idpub=473809)
+
+### POSCOMP 2016
+
+#### Datas POSCOMP 2016
 | Data | Descrição |
 |------|-----------|
 | 01/06/2016 | Início das inscrições |
@@ -33,13 +51,13 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 | 28/10/2016 | [Divulgação das notas definitivas](http://publicacoes.fundatec.com.br/portal/concursos/394/procura_notas_definitivasdkoashljkhdljkas.php?concurso=394&idpub=472790) |
 | 31/10/2016 | [Boletim de desempenho](http://publicacoes.fundatec.com.br/portal/concursos/boletim_desempenho/relatorio_boletim_desempenho_pdf_1.php?concurso=394&idpub=472800) |
 
-#### Links
+#### Links POSCOMP 2016
 | Descrição | Link |
 |------------|-------|
 |Edital de abertura|[Acessar](http://publicacoes.fundatec.com.br/portal/concursos/editais/edital_163399680cd40.pdf)|
 |Página de inscrição|[Acessar](https://www.fundatec.org.br/portal/concursos/inscricao/padrao/v20_inscricao.php?concurso=394)|
 
-#### Conteúdo da prova
+#### Conteúdo da prova POSCOMP 2016
 
 ##### Matemática
 | Matéria | Descrição |
@@ -100,6 +118,7 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 # Links úteis
 | Nome | Descrição | Link |
 |------|-----------|------|
+| FAQ | FAQ oficial da POSCOMP, mantido pela SBC | [Acessar](http://www.sbc.org.br/noticias/10-slideshow-noticias/1971-faq-do-poscomp) |
 | Blog do José Malcher Jr. | Sempre traz novidades interessantes sobre a POSCOMP 2016, dando dicas de estudo e compilando informações | [Acessar](http://josemalcher.net/) |
 
 ## Sobre
