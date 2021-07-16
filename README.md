@@ -100,6 +100,10 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 
 | Ano | Link |
 |------|------|
+| 2019 | [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/212-2019/1246-prova-2019) \| [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/212-2019/1247-gabarito-2019) |
+| 2018 | [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/202-2018/1203-prova-2018) \| [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/202-2018/1202-gabarito-2018) |
+| 2017 | [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1178-prova-2017) \| [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1179-gabarito-2017) |
+| 2016 | [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1045-prova-2016) \| [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1044-prova-2016) |
 | 2015 | [Caderno de questões](http://www.vestibular.ufg.br/2015/poscomp/sistema/prova_gabarito/CADERNO_QUESTOES_PROVA_OBJETIVA.pdf) \| [Gabarito](http://vestibular.ufg.br/2015/poscomp/sistema/prova_gabarito/GABARITO_FINAL.pdf) |
 | 2014 | [Caderno de questões](http://www.sbc.org.br/documentos-da-sbc/summary/181-2014/957-cadernodequestoes-ano2014) \| [Gabarito](http://www.sbc.org.br/documentos-da-sbc/summary/181-2014/956-gabarito) |
 | 2013 | [Caderno de questões](http://www.sbc.org.br/documentos-da-sbc/summary/180-2013/955-cadernodequestoes-ano2013) \| [Gabarito](http://www.sbc.org.br/documentos-da-sbc/summary/180-2013/954-gabarito) |
