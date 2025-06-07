@@ -1,12 +1,6 @@
 # Awesome POSCOMP
 Uma coleção/lista de recursos para as provas da [POSCOMP](http://www.sbc.org.br/educacao/poscomp).
 
-<p align="center">
-  <img src="http://www.sbc.org.br/images/Campanhas/poscomp2017.jpg"/>
-  <br/>
-  <b>Os <a href="http://publicacoes.fundatec.com.br/portal/concursos/publicacao/local_prova/local_prova.php?concurso=421&codpub=2691&idpub=473809" target="_blank">locais de prova</a> já foram divulgados!</b>
-</p>
-
 A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do Brasil, é muito importante fazer a prova. Mais informações sobre a POSCOMP podem ser obtidas [no site oficial da Sociedade Brasileira de Computação](http://www.sbc.org.br/educacao/poscomp).
 
 - [Awesome POSCOMP](#awesome-poscomp)
