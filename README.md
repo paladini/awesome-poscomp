@@ -1,32 +1,32 @@
 # Awesome POSCOMP
 
-Uma coleção de recursos e informações para as provas da POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2022. 
+Uma coleção de recursos e informações para as provas da POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2024. 
 
 ## Índice
 
 - [Sobre a POSCOMP](#sobre-a-poscomp)
 - [POSCOMP por Ano](#poscomp-por-ano)
-    - [POSCOMP 2024](#poscomp-2024)
-    - [POSCOMP 2023](#poscomp-2023)
-    - [POSCOMP 2022](#poscomp-2022)
-    - [POSCOMP 2019](#poscomp-2019)
-    - [POSCOMP 2018](#poscomp-2018)
-    - [POSCOMP 2017](#poscomp-2017)
-    - [POSCOMP 2016](#poscomp-2016)
-    - [POSCOMP 2015](#poscomp-2015)
-    - [POSCOMP 2014](#poscomp-2014)
-    - [POSCOMP 2013](#poscomp-2013)
-    - [POSCOMP 2012](#poscomp-2012)
-    - [POSCOMP 2011](#poscomp-2011)
-    - [POSCOMP 2010](#poscomp-2010)
-    - [POSCOMP 2009](#poscomp-2009)
-    - [POSCOMP 2008](#poscomp-2008)
-    - [POSCOMP 2007](#poscomp-2007)
-    - [POSCOMP 2006](#poscomp-2006)
-    - [POSCOMP 2005](#poscomp-2005)
-    - [POSCOMP 2004](#poscomp-2004)
-    - [POSCOMP 2003](#poscomp-2003)
-    - [POSCOMP 2002](#poscomp-2002)
+    - POSCOMP 2024
+    - POSCOMP 2023
+    - POSCOMP 2022
+    - POSCOMP 2019
+    - POSCOMP 2018
+    - POSCOMP 2017
+    - POSCOMP 2016
+    - POSCOMP 2015
+    - POSCOMP 2014
+    - POSCOMP 2013
+    - POSCOMP 2012
+    - POSCOMP 2011
+    - POSCOMP 2010
+    - POSCOMP 2009
+    - POSCOMP 2008
+    - POSCOMP 2007
+    - POSCOMP 2006
+    - POSCOMP 2005
+    - POSCOMP 2004
+    - POSCOMP 2003
+    - POSCOMP 2002
 - [Conteúdo Programático (Exemplo de 2016)](#conteúdo-programático)
 - [Links Úteis](#links-úteis)
 
