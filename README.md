@@ -1,6 +1,10 @@
 # Awesome POSCOMP
 
-Uma coleção de recursos e informações para as provas da [POSCOMP](http://www.sbc.org.br/educacao/poscomp).
+Uma coleção de recursos e informações para as provas da POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2022. 
+
+*O primeiro projeto com recursos da POSCOMP no Github.*
+
+## Sobre a POSCOMP
 
 A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
 
