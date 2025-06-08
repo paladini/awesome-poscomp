@@ -1,6 +1,6 @@
 # Awesome POSCOMP
 
-Uma coleção de recursos e informações para as provas do POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2024. 
+Uma coleção de recursos e informações para as provas do POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 a 2024. 
 
 ## Índice
 
