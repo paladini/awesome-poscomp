@@ -4,6 +4,7 @@ Uma coleção de recursos e informações para as provas da POSCOMP. Este reposi
 
 ## Índice
 
+- [Sobre a POSCOMP](#sobre-a-poscomp)
 - [POSCOMP por Ano](#poscomp-por-ano)
     - [POSCOMP 2024](#poscomp-2024)
     - [POSCOMP 2023](#poscomp-2023)
@@ -27,12 +28,11 @@ Uma coleção de recursos e informações para as provas da POSCOMP. Este reposi
     - [POSCOMP 2003](#poscomp-2003)
     - [POSCOMP 2002](#poscomp-2002)
 - [Conteúdo Programático (Exemplo de 2016)](#conteúdo-programático)
-- [Sobre](#sobre)
 - [Links Úteis](#links-úteis)
 
-## Sobre
+## Sobre a POSCOMP
 
-Este repositório está em construção e segue a ideia do [Manifesto Awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md). Em breve receberá mais conteúdos e organização!
+A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
 
 ---
 
@@ -125,10 +125,6 @@ Exemplo: [Conteúdo da prova POSCOMP 2016](#poscomp-2016)
 Consulte a seção do ano desejado para detalhes completos do conteúdo.
 
 ---
-
-## Sobre a POSCOMP
-
-A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
 
 ## Links Úteis
 
