@@ -2,15 +2,8 @@
 
 Uma coleção de recursos e informações para as provas da POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2022. 
 
-*O primeiro projeto com recursos da POSCOMP no Github.*
-
-## Sobre a POSCOMP
-
-A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
-
 ## Índice
 
-- [Sobre](#sobre)
 - [POSCOMP por Ano](#poscomp-por-ano)
     - [POSCOMP 2024](#poscomp-2024)
     - [POSCOMP 2023](#poscomp-2023)
@@ -34,6 +27,7 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
     - [POSCOMP 2003](#poscomp-2003)
     - [POSCOMP 2002](#poscomp-2002)
 - [Conteúdo Programático (Exemplo de 2016)](#conteúdo-programático)
+- [Sobre](#sobre)
 - [Links Úteis](#links-úteis)
 
 ## Sobre
@@ -131,6 +125,10 @@ Exemplo: [Conteúdo da prova POSCOMP 2016](#poscomp-2016)
 Consulte a seção do ano desejado para detalhes completos do conteúdo.
 
 ---
+
+## Sobre a POSCOMP
+
+A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
 
 ## Links Úteis
 
