@@ -46,7 +46,7 @@ Este repositório está em construção e segue a ideia do [Manifesto Awesome](h
 
 ### POSCOMP 2024
 - [Caderno de questões](poscomp/2024/poscomp_caderno_prova_2024.pdf)
-- [Gabarito/Prova + Gabarito](poscomp/2024/poscomp_prova_gabarito_2024.pdf)
+- [Gabarito](poscomp/2024/poscomp_prova_gabarito_2024.pdf)
 
 ### POSCOMP 2023
 - [Caderno de questões](poscomp/2023/poscomp_caderno_prova_2023.pdf)
