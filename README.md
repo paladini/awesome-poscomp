@@ -12,6 +12,9 @@ A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 
 - [Sobre](#sobre)
 - [POSCOMP por Ano](#poscomp-por-ano)
+    - [POSCOMP 2024](#poscomp-2024)
+    - [POSCOMP 2023](#poscomp-2023)
+    - [POSCOMP 2022](#poscomp-2022)
     - [POSCOMP 2019](#poscomp-2019)
     - [POSCOMP 2018](#poscomp-2018)
     - [POSCOMP 2017](#poscomp-2017)
@@ -40,6 +43,18 @@ Este repositório está em construção e segue a ideia do [Manifesto Awesome](h
 ---
 
 ## POSCOMP por Ano
+
+### POSCOMP 2024
+- [Caderno de questões](poscomp/2024/poscomp_caderno_prova_2024.pdf)
+- [Gabarito/Prova + Gabarito](poscomp/2024/poscomp_prova_gabarito_2024.pdf)
+
+### POSCOMP 2023
+- [Caderno de questões](poscomp/2023/poscomp_caderno_prova_2023.pdf)
+- [Gabarito](poscomp/2023/poscomp_gabarito_2023.pdf)
+
+### POSCOMP 2022
+- [Caderno de questões](poscomp/2022/poscomp_prova_2022.pdf)
+- [Gabarito](poscomp/2022/poscomp_gabarito_2022.pdf)
 
 ### POSCOMP 2019
 - [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/212-2019/1246-prova-2019) \| [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/212-2019/1247-gabarito-2019)
