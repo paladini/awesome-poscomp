@@ -64,44 +64,13 @@ Este repositório está em construção e segue a ideia do [Manifesto Awesome](h
 
 ### POSCOMP 2017
 
-**Datas:**
-| Data | Descrição |
-|------|-----------|
-| 13/06/2017 | Início das inscrições |
-| 15/08/2017 | Fim das inscrições |
-
-**Links oficiais:**
-| Descrição | Link |
-|-----------|------|
-| Página oficial do POSCOMP 2017 | [Acessar](https://fundatec.org.br/portal/concursos/index_concursos.php?concurso=421) |
-| Edital de abertura | [Acessar](http://publicacoes.fundatec.com.br/portal/concursos/editais/edital_3772160d4a3.pdf) |
-| Locais de Provas por CPF | [Acessar](http://publicacoes.fundatec.com.br/portal/concursos/publicacao/local_prova/local_prova.php?concurso=421&codpub=2691&idpub=473809) |
-| Caderno de questões | [Acessar](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1178-prova-2017) |
-| Gabarito | [Acessar](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1179-gabarito-2017) |
+- [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1178-prova-2017)
+- [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/201-2017/1179-gabarito-2017)
 
 ### POSCOMP 2016
 
-**Datas:**
-| Data | Descrição |
-|------|-----------|
-| 01/06/2016 | Início das inscrições |
-| 04/07/2016 | Fim das inscrições |
-| 04/07/2016 | Último dia para pagamento da inscrição |
-| 25/09/2016 | Aplicação da prova |
-| 26/09/2016 | [Gabaritos preliminares](http://publicacoes.fundatec.com.br/portal/concursos/394/Gabaritos_Preliminares_394.pdf?idpub=472643) |
-| 26/09/2016 | [Disponibilização das provas](http://publicacoes.fundatec.com.br/portal/concursos/394/0394.001.pdf?idpub=472644) |
-| 18/10/2016 | [Gabaritos definitivos](http://publicacoes.fundatec.com.br/portal/concursos/v6.0_index_gabaritos.php?concurso=394&tipo=D&idpub=472739) |
-| 21/10/2016 | [Divulgação das notas preliminares](http://publicacoes.fundatec.com.br/portal/concursos/394/procura_notas_preliminar.php?concurso=394&idpub=472764) |
-| 28/10/2016 | [Divulgação das notas definitivas](http://publicacoes.fundatec.com.br/portal/concursos/394/procura_notas_definitivasdkoashljkhdljkas.php?concurso=394&idpub=472790) |
-| 31/10/2016 | [Boletim de desempenho](http://publicacoes.fundatec.com.br/portal/concursos/boletim_desempenho/relatorio_boletim_desempenho_pdf_1.php?concurso=394&idpub=472800) |
-
-**Links:**
-| Descrição | Link |
-|-----------|------|
-| Edital de abertura | [Acessar](http://publicacoes.fundatec.com.br/portal/concursos/editais/edital_163399680cd40.pdf) |
-| Página de inscrição | [Acessar](https://www.fundatec.org.br/portal/concursos/inscricao/padrao/v20_inscricao.php?concurso=394) |
-| Caderno de questões | [Acessar](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1045-prova-2016) |
-| Gabarito | [Acessar](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1044-gabarito-2016) |
+- [Caderno de questões](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1045-prova-2016)
+- [Gabarito](https://www.sbc.org.br/documentos-da-sbc/summary/194-2016/1044-gabarito-2016)
 
 ### POSCOMP 2015
 - [Caderno de questões](http://www.vestibular.ufg.br/2015/poscomp/sistema/prova_gabarito/CADERNO_QUESTOES_PROVA_OBJETIVA.pdf) \| [Gabarito](http://vestibular.ufg.br/2015/poscomp/sistema/prova_gabarito/GABARITO_PROVA_OBJETIVA.pdf)
