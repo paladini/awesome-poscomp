@@ -1,10 +1,10 @@
 # Awesome POSCOMP
 
-Uma coleção de recursos e informações para as provas da POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2024. 
+Uma coleção de recursos e informações para as provas do POSCOMP. Este repositório contem todas as provas e gabaritos do [Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)]((http://www.sbc.org.br/educacao/poscomp)), da Sociedade Brasileira de Computação (SBC), dos anos de 2002 à 2024. 
 
 ## Índice
 
-- [Sobre a POSCOMP](#sobre-a-poscomp)
+- [Sobre o POSCOMP](#sobre-o-poscomp)
 - [POSCOMP por Ano](#poscomp-por-ano)
     - POSCOMP 2024
     - POSCOMP 2023
@@ -30,9 +30,9 @@ Uma coleção de recursos e informações para as provas da POSCOMP. Este reposi
 - [Conteúdo Programático (Exemplo de 2016)](#conteúdo-programático)
 - [Links Úteis](#links-úteis)
 
-## Sobre a POSCOMP
+## Sobre o POSCOMP
 
-A *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
+O *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-graduação na área de Computação no Brasil. Se você deseja fazer pós-graduação na área de computação dentro do país, provavelmente vai precisar fazer essa prova!
 
 ---
 
@@ -81,6 +81,9 @@ Consulte a seção do ano desejado para detalhes completos do conteúdo.
 ## Links Úteis
 
 | Nome | Descrição | Link |
-|------|-----------|------|
+|------|-----------|------|    
+| Site Oficial | Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP) | [Acessar](https://www.sbc.org.br/educacao/poscomp)|
+| Histórico do POSCOMP | Um pouco sobre a história do POSCOMP | [Acessar](https://www.sbc.org.br/educacao/poscomp/2118-o-historico-do-poscomp) |
+| Provas e Gabaritos do POSCOMP | Provas e Gabaritos anteriores do POSCOMP| [Acessar](https://www.sbc.org.br/documentos-da-sbc/category/153-provas-e-gabaritos-do-poscomp) |
 | FAQ | FAQ oficial da POSCOMP, mantido pela SBC | [Acessar](http://www.sbc.org.br/noticias/10-slideshow-noticias/1971-faq-do-poscomp) |
-| Blog do José Malcher Jr. | Dicas de estudo e novidades sobre a POSCOMP | [Acessar](http://josemalcher.net/) |
+| Blog do José Malcher Jr. | Dicas de estudo e novidades sobre o POSCOMP | [Acessar](http://josemalcher.net/) |
