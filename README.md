@@ -40,6 +40,7 @@ O *POSCOMP* é a porta de entrada para a grande maioria dos programas de pós-gr
 
 | Ano   | Prova | Gabarito |
 |-------|-------|----------|
+| 2025  | [Caderno de questões](#) | [Gabarito Provisório](https://concursos-publicacoes.s3.amazonaws.com/972/publico/972_Edital_009-2025_Gabaritos_PreliminaresdasProvasTO_68b5a68fc7209.pdf?idpub=503427) |
 | 2024  | [Caderno de questões](poscomp/2024/poscomp_caderno_prova_2024.pdf) | [Gabarito](poscomp/2024/poscomp_prova_gabarito_2024.pdf) |
 | 2023  | [Caderno de questões](poscomp/2023/poscomp_caderno_prova_2023.pdf) | [Gabarito](poscomp/2023/poscomp_gabarito_2023.pdf) |
 | 2022  | [Caderno de questões](poscomp/2022/poscomp_prova_2022.pdf) | [Gabarito](poscomp/2022/poscomp_gabarito_2022.pdf) |
