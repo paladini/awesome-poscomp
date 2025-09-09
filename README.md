@@ -6,6 +6,7 @@ Uma coleção de recursos e informações para as provas do POSCOMP. Este reposi
 
 - [Sobre o POSCOMP](#sobre-o-poscomp)
 - [POSCOMP por Ano](#poscomp-por-ano)
+    - POSCOMP 2025
     - POSCOMP 2024
     - POSCOMP 2023
     - POSCOMP 2022
